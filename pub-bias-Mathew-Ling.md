@@ -44,8 +44,8 @@ We’re going to use Zoom’s conference call (not webinar feature), so the
 room is limited only to 100 participants. Amelia will send invitation to
 all participants and the presenter (Dr Mathew Ling). Webinar format is
 not something that everyone is familiar to, so moderators (Amelia and
-Annas) will work together to help technical glitches and to break
-language
+Annas) will work together to help solving technical glitches and to
+break language
 barrier.
 
 ## Webinar structure
