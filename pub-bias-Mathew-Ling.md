@@ -44,19 +44,19 @@ We’re going to use Zoom’s conference call (not webinar feature), so the
 room is limited only to 100 participants. Amelia will send invitation to
 all participants and the presenter (Dr Mathew Ling). Webinar format is
 not something that everyone is familiar to, so moderators (Amelia and
-Annas) will work together to help solving technical glitches and to
+Ilham) will work together to help solving technical glitches and to
 break language
 barrier.
 
 ## Webinar structure
 
-| AEST  | WIB   | Length     | Schedule                                                                                                                              | Presenter/Moderator                                                             |
-| ----- | :---- | :--------- | :------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------ |
-| 12.45 | 09.45 | 15 minutes | Opening the room and helping to fix technical problems                                                                                | Amelia                                                                          |
-| 13.00 | 10.00 | 5 minutes  | Welcoming everyone and introducing Mathew to participants (mostly in Bahasa Indonesia, but Annas will sum up in English via chatroom) | Amelia                                                                          |
-| 13.05 | 10.05 | 30 minutes | Main topic                                                                                                                            | Mathew Ling (Amelia will sum up Mathew’s talk in Bahasa Indonesia via chatroom) |
-| 13.35 | 10.35 | 15 minutes | Q\&A session (participants will raise their questions via chatroom)                                                                   | Mathew (Annas will select questions and translate those to Mathew)              |
-| 13.50 | 10.50 | 10 minutes | Closing and advertising upcoming webinars                                                                                             | Amelia                                                                          |
+| AEST  | WIB   | Length     | Schedule                                                                                                                               | Presenter/Moderator                                                             |
+| ----- | :---- | :--------- | :------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ |
+| 12.45 | 09.45 | 15 minutes | Opening the room and helping to fix technical problems                                                                                 | Amelia & Ilham                                                                  |
+| 13.00 | 10.00 | 5 minutes  | Welcoming everyone and introducing Mathew to participants (mostly in Bahasa Indonesia, but Amelia will sum up in English via chatroom) | Ilham                                                                           |
+| 13.05 | 10.05 | 30 minutes | Main topic                                                                                                                             | Mathew Ling (Amelia will sum up Mathew’s talk in Bahasa Indonesia via chatroom) |
+| 13.35 | 10.35 | 15 minutes | Q\&A session (participants will raise their questions via chatroom)                                                                    | Mathew (Amelia will select questions and translate those to Mathew)             |
+| 13.50 | 10.50 | 10 minutes | Closing and advertising upcoming webinars                                                                                              | Amelia                                                                          |
 
 ## Event Poster
 
