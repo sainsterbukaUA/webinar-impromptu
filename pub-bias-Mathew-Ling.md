@@ -33,7 +33,7 @@ island), but we’re currently working to expand the coverage to the outer
 islands.
 
 Most participants (59.2%) admitted that they never conduct
-meta-research, but have heard about it and might be doing so in the
+meta-research, but have heard about it and might be doing it in the
 future. Additionaly, 30.6% never heard about meta-research, but are very
 interested in learning more. A small fraction of participants (8.2%)
 said they had conducted meta-analysis before.
