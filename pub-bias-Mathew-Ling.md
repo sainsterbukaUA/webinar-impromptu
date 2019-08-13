@@ -23,6 +23,17 @@ organising another (and larger) webinar in October (Advancing Science by
 Practicing Open Scientific Practice - in collaboration with Center for
 Open Science).
 
+## Signing-up
+
+We’re currently advertising the webinar through IMs and social media and
+hoping to expand the coverage, despite the limited capacity of hosting.
+Anyone who is interested in joining needs to sign-up through [Google
+Forms](https://bit.ly/bias-publikasi). We also provide [FAQs and a
+technical guide to join a
+webinar](https://sainsterbukaua.github.io/id/post/petunjuk-webinar/) in
+our website in order to anticipate technical problems prior to the
+event.
+
 ## Potential participants’ profiles
 
 Per 13 August (15:03 WIB), we have 49 potential participants who have
