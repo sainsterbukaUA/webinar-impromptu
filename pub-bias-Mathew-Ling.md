@@ -25,11 +25,12 @@ Open Science).
 
 ## Potential participants’ profiles
 
-Per 13 August (15:03 WIB), we have 49 potential participants who signed
-up to join the webinar. Participants are mostly researchers/full-time
-lecturers, working at various universities in Indonesia. Participants
-are concentrated in Java (the most populous island), but we’re currently
-working to expand the coverage to the outer islands.
+Per 13 August (15:03 WIB), we have 49 potential participants who have
+signed up to join the webinar. Participants are mostly
+researchers/full-time lecturers, working at various universities in
+Indonesia. Participants are concentrated in Java (the most populous
+island), but we’re currently working to expand the coverage to the outer
+islands.
 
 Most participants (59.2%) admitted that they never conduct
 meta-research, but have heard about it and might be doing so in the
@@ -42,9 +43,9 @@ said they had conducted meta-analysis before.
 We’re going to use Zoom’s conference call (not webinar feature), so the
 room is limited only to 100 participants. Amelia will send invitation to
 all participants and the presenter (Dr Mathew Ling). Webinar format is
-not something that everyone is familiar to, so moderators (Amelia,
-Sandy, and Annas) will work together to help technical glitches and to
-break language
+not something that everyone is familiar to, so moderators (Amelia and
+Annas) will work together to help technical glitches and to break
+language
 barrier.
 
 ## Webinar structure
