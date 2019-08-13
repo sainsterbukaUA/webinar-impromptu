@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Aims
 This webinar aims to familiarise Indonesian researchers with publication bias and meta-research. Systematic review and meta-analysis is rarely seen in Indonesian scientific discourse, while it might offer a better evidence and insight than a single study. By organising this webinar, we hope to cover some introductory questions related to publication bias which are including:
 
-* Why does single empirical study offer very limited insights?
+* Why does a single empirical study offer such a limited insight?
 * What is publication bias?
 * Why does is matter?
 * How could it happen?
@@ -26,7 +26,7 @@ The main idea of this webinar is spreading 'a sense' that science is in crisis a
 
 
 ## Signing-up
-We're currently advertising the webinar through IMs and social media and hoping to expand the coverage, despite the limited capacity of hosting. Anyone who is interested in joining needs to sign-up through [Google Forms](https://bit.ly/bias-publikasi). We also provide [FAQs and a technical guide to join a webinar](https://sainsterbukaua.github.io/id/post/petunjuk-webinar/) in our website in order to anticipate technical problems prior to the event. 
+We're currently advertising the webinar through IMs and social media and hoping to expand the coverage, despite the limited capacity of hosting. Anyone who is interested in joining needs to sign-up through [Google Forms](https://bit.ly/bias-publikasi). We also provide [FAQs and a technical guide to join a webinar](https://sainsterbukaua.github.io/id/post/petunjuk-webinar/q) in our website in order to anticipate technical problems prior to the event. 
 
 
 ## Potential participants' profiles

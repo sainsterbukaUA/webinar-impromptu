@@ -9,7 +9,7 @@ evidence and insight than a single study. By organising this webinar, we
 hope to cover some introductory questions related to publication bias
 which are including:
 
-  - Why does single empirical study offer very limited insights?
+  - Why does a single empirical study offer such a limited insight?
   - What is publication bias?
   - Why does is matter?
   - How could it happen?
@@ -30,7 +30,7 @@ hoping to expand the coverage, despite the limited capacity of hosting.
 Anyone who is interested in joining needs to sign-up through [Google
 Forms](https://bit.ly/bias-publikasi). We also provide [FAQs and a
 technical guide to join a
-webinar](https://sainsterbukaua.github.io/id/post/petunjuk-webinar/) in
+webinar](https://sainsterbukaua.github.io/id/post/petunjuk-webinar/q) in
 our website in order to anticipate technical problems prior to the
 event.
 
