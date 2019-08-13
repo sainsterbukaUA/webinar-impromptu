@@ -2,12 +2,16 @@
 title: "Publication Bias Webinar"
 author: "Rizqy Amelia Zein"
 date: "8/13/2019"
-output: html_document
+output: 
+  md_document:
+    variant: gfm
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+# Publication Bias Webinar (Monday, 18 August 2019, 13.00 AEST/10.00 WIB)
 
 ## Aims
 This webinar aims to familiarise Indonesian researchers with publication bias and meta-research. Systematic review and meta-analysis is rarely seen in Indonesian scientific discourse, while it might offer a better evidence and insight than a single study. By organising this webinar, we hope to cover some introductory questions related to publication bias which are including:
@@ -31,10 +35,16 @@ Most participants (59.2%) admitted that they never conduct meta-research, but ha
 We're going to use Zoom's conference call (not webinar feature), so the room is limited only to 100 participants. Amelia will send invitation to all participants and the presenter (Dr Mathew Ling). Webinar format is not something that everyone is familiar to, so moderators (Amelia, Sandy, and Annas) will work together to help technical glitches and to break language barrier.
 
 
-
-
 ## Webinar structure
 | AEST      | WIB      | Length     | Schedule                    | Presenter/Moderator           |
 | --------- | :------- | :--------- | :-------------------------- | :---------------------------- |
 | 12.45     | 09.45    | 15 minutes | Opening the room and helping to fix technical problems | Amelia |
-| 13.00     | 10.00    | 5 minutes  | Welcoming everyone and introducing Mathew to participants (mostly in Bahasa Indonesia, but Annas will sum up )
+| 13.00     | 10.00    | 5 minutes  | Welcoming everyone and introducing Mathew to participants (mostly in Bahasa Indonesia, but Annas will sum up in English via chatroom) | Amelia |
+| 13.05     | 10.05    | 30 minutes | Main topic                  | Mathew Ling (Amelia will sum up Mathew's talk in Bahasa Indonesia via chatroom) |
+| 13.35     | 10.35    | 15 minutes | Q&A session (participants will raise their questions via chatroom) | Mathew (Annas will select questions and translate those to Mathew) |
+| 13.50     | 10.50    | 10 minutes | Closing and advertising upcoming webinars | Amelia |
+
+
+## Event Poster
+
+<center><img src="pic/pub-bias-webinar.png" style="width:60%;" class="fancyimage"/></center>
