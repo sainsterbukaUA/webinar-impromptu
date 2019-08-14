@@ -36,17 +36,17 @@ event.
 
 ## Potential participants’ profiles
 
-Per 13 August (15:03 WIB), we have 49 potential participants who have
+Per 14 August (15:04 WIB), we have 55 potential participants who have
 signed up to join the webinar. Participants are mostly
 researchers/full-time lecturers, working at various universities in
 Indonesia. Participants are concentrated in Java (the most populous
 island), but we’re currently working to expand the coverage to the outer
 islands.
 
-Most participants (59.2%) admitted that they never conduct
-meta-research, but have heard about it and might be doing it in the
-future. Additionaly, 30.6% never heard about meta-research, but are very
-interested in learning more. A small fraction of participants (8.2%)
+Most participants (60%) admitted that they never conduct meta-research,
+but have heard about it and might be doing it in the future.
+Additionaly, 29.1% never heard about meta-research, but are very
+interested in learning more. A small fraction of participants (9.1%)
 said they had conducted meta-analysis before.
 
 ## How we do the webinar
