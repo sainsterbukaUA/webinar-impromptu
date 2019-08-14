@@ -11,7 +11,7 @@ publication bias which are including:
 
   - Why does a single empirical study offer such a limited insight?
   - What is publication bias?
-  - Why does is matter?
+  - Why does it matter?
   - How could it happen?
   - ..and why researchers should solve this problem together?
 
@@ -61,13 +61,13 @@ barrier.
 
 ## Webinar structure
 
-| AEST  | WIB   | Length     | Schedule                                                                                                                               | Presenter/Moderator                                                                                                                                                     |
-| ----- | :---- | :--------- | :------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 12.45 | 09.45 | 15 minutes | Opening the room and helping to fix technical problems                                                                                 | Amelia & Ilham                                                                                                                                                          |
-| 13.00 | 10.00 | 5 minutes  | Welcoming everyone and introducing Mathew to participants (mostly in Bahasa Indonesia, but Amelia will sum up in English via chatroom) | Erwin                                                                                                                                                                   |
-| 13.05 | 10.05 | 30 minutes | Main topic                                                                                                                             | Mathew Ling (Amelia and Erwin will sum up Mathew’s talk in Bahasa Indonesia. Erwin will be drawing a visual note, while Amelia will write a short summary via chatroom) |
-| 13.35 | 10.35 | 15 minutes | Q\&A session (participants will raise their questions via chatroom)                                                                    | Mathew (Amelia will select questions and translate those to Mathew, and Erwin will sum up Mathew’s answers via chatroom)                                                |
-| 13.50 | 10.50 | 10 minutes | Closing and advertising upcoming webinars                                                                                              | Amelia                                                                                                                                                                  |
+| AEST  | WIB   | Length     | Schedule                                                                                                                               | Presenter/Moderator                                                                                                                                                          |
+| ----- | :---- | :--------- | :------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 12.45 | 09.45 | 15 minutes | Opening the room and helping to fix technical problems                                                                                 | Amelia & Ilham                                                                                                                                                               |
+| 13.00 | 10.00 | 5 minutes  | Welcoming everyone and introducing Mathew to participants (mostly in Bahasa Indonesia, but Amelia will sum up in English via chatroom) | Erwin                                                                                                                                                                        |
+| 13.05 | 10.05 | 30 minutes | Main topic                                                                                                                             | Mathew Ling (Amelia and Erwin will sum up Mathew’s talk in Bahasa Indonesia. Erwin will be drawing a visual note, while Amelia will be writing a short summary via chatroom) |
+| 13.35 | 10.35 | 15 minutes | Q\&A session (participants will raise their questions via chatroom)                                                                    | Mathew (Amelia will select questions and translate those to Mathew, and Erwin will sum up Mathew’s answers via chatroom)                                                     |
+| 13.50 | 10.50 | 10 minutes | Closing and advertising upcoming webinars                                                                                              | Amelia                                                                                                                                                                       |
 
 ## Event Poster
 
