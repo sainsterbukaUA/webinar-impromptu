@@ -30,7 +30,7 @@ hoping to expand the coverage, despite the limited capacity of hosting.
 Anyone who is interested in joining needs to sign-up through [Google
 Forms](https://bit.ly/bias-publikasi). We also provide [FAQs and a
 technical guide to join a
-webinar](https://sainsterbukaua.github.io/id/post/petunjuk-webinar/q) in
+webinar](https://sainsterbukaua.github.io/id/post/petunjuk-webinar/) in
 our website in order to anticipate technical problems prior to the
 event.
 
