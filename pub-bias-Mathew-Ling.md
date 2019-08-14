@@ -1,4 +1,4 @@
-# Publication Bias Webinar (Monday, 18 August 2019, 13.00 AEST/10.00 WIB)
+# Publication Bias Webinar (Monday, 18 August 2019, 10.00 WIB/13.00 AEST)
 
 ## Aims
 
@@ -20,7 +20,7 @@ crisis and therefore reformation is desperately needed. We will amplify
 this ‘sense of crisis’ by organising a follow-up webinar in September
 (Replication Crisis by Lysander James) and ‘resolve the tension’ by
 organising another (and larger) webinar in October (Advancing Science by
-Practicing Open Scientific Practice - in collaboration with Center for
+Practicing Open Scientific Practices - in collaboration with Center for
 Open Science).
 
 ## Signing-up

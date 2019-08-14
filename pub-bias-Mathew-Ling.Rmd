@@ -11,7 +11,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Publication Bias Webinar (Monday, 18 August 2019, 13.00 AEST/10.00 WIB)
+# Publication Bias Webinar (Monday, 18 August 2019, 10.00 WIB/13.00 AEST)
 
 ## Aims
 This webinar aims to familiarise Indonesian researchers with publication bias and meta-research. Systematic review and meta-analysis is rarely seen in Indonesian scientific discourse, while it might offer a better evidence and insight than a single study. By organising this webinar, we hope to cover some introductory questions related to publication bias which are including:
@@ -22,7 +22,7 @@ This webinar aims to familiarise Indonesian researchers with publication bias an
 * How could it happen?
 * ..and why researchers should solve this problem together?
 
-The main idea of this webinar is spreading 'a sense' that science is in crisis and therefore reformation is desperately needed. We will amplify this 'sense of crisis' by organising a follow-up webinar in September (Replication Crisis by Lysander James) and 'resolve the tension' by organising another (and larger) webinar in October (Advancing Science by Practicing Open Scientific Practice - in collaboration with Center for Open Science).
+The main idea of this webinar is spreading 'a sense' that science is in crisis and therefore reformation is desperately needed. We will amplify this 'sense of crisis' by organising a follow-up webinar in September (Replication Crisis by Lysander James) and 'resolve the tension' by organising another (and larger) webinar in October (Advancing Science by Practicing Open Scientific Practices - in collaboration with Center for Open Science).
 
 
 ## Signing-up
