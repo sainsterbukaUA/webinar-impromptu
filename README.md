@@ -1,6 +1,6 @@
 # #SainsTerbuka Airlangga supported webinars
 
-#SainsTerbuka Airlangga regularly organises webinars as a part of our campaign supporting the adoption of good scientific practices. We keep all the records of webinar scenarios and webinar recordings in this repository to ensure maximum accessibility and transparency. [Feedback and general comments](mailto:sainsterbuka.ua@gmail.com) are much appreciated.
+#SainsTerbuka Airlangga regularly organises webinars as a part of our campaign supporting the adoption of good scientific practices. We keep all the records of webinar scenarios and webinar recordings in this repository to ensure maximum accessibility and transparency. [Feedback and general comments](mailto:sainsterbuka.ua@gmail.com) are very much appreciated.
 
 ## The List of our supported webinars
 * [Publication Bias](https://github.com/sainsterbukaUA/webinar-impromptu/blob/master/pub-bias-Mathew-Ling.md) (w/Dr Mathew Ling, Deaking University, ANZORN) in collaboration with INA-Rxiv and Sains Terbuka MOOC (18/08/2019)
