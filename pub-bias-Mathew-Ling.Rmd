@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Publication Bias Webinar (Monday, 18 August 2019, 10.00 WIB/13.00 AEST)
 
 ## Aims
-This webinar aims to familiarise Indonesian researchers with publication bias and meta-research. Systematic review and meta-analysis is rarely seen in Indonesian scientific discourse, while it might offer a better evidence and insight than a single study. By organising this webinar, we hope to cover some introductory questions related to publication bias which are including:
+This webinar aims to familiarise Indonesian researchers with publication bias and meta-research. Systematic review and meta-analysis are rarely seen in Indonesian scientific discourse, while those might offer a better evidence and insight than a single study. By organising this webinar, we hope to cover some introductory questions related to publication bias which are including:
 
 * Why does a single empirical study offer such a limited insight?
 * What is publication bias?
@@ -44,7 +44,7 @@ We're going to use Zoom's conference call (not webinar feature), so the room is 
 | --------- | :------- | :--------- | :-------------------------- | :---------------------------- |
 | 12.45     | 09.45    | 15 minutes | Opening the room and helping to fix technical problems | Amelia & Ilham |
 | 13.00     | 10.00    | 5 minutes  | Welcoming everyone and introducing Mathew to participants (mostly in Bahasa Indonesia, but Amelia will sum up in English via chatroom) | Erwin |
-| 13.05     | 10.05    | 30 minutes | Main topic                  | Mathew Ling (Amelia (first 15 minutes) and Erwin (last 15 minutes) will sum up Mathew's talk in Bahasa Indonesia via chatroom) |
+| 13.05     | 10.05    | 30 minutes | Main topic                  | Mathew Ling (Amelia and Erwin will sum up Mathew's talk in Bahasa Indonesia. Erwin will be drawing a visual note, while Amelia will write a short summary via chatroom) |
 | 13.35     | 10.35    | 15 minutes | Q&A session (participants will raise their questions via chatroom) | Mathew (Amelia will select questions and translate those to Mathew, and Erwin will sum up Mathew's answers via chatroom) |
 | 13.50     | 10.50    | 10 minutes | Closing and advertising upcoming webinars | Amelia |
 
