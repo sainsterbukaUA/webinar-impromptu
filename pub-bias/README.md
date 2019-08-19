@@ -71,9 +71,11 @@ barrier.
 
 ## Recorded Webinar
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eYzjBP4_YTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+``` r
+embed_url("https://www.youtube.com/embed/eYzjBP4_YTM")
+```
 
-</iframe>
+    ## NULL
 
 ## Slides, visual notes, and chat transcript
 
@@ -84,7 +86,7 @@ transcript](https://github.com/sainsterbukaUA/webinar-impromptu/blob/master/pub-
 
 <center>
 
-<img src="pub-bias/visual-notes.jpg" style="width:60%;" class="fancyimage"/>
+<img src="visual-notes.jpg" style="width:70%;" class="fancyimage"/>
 
 </center>
 
@@ -92,6 +94,6 @@ transcript](https://github.com/sainsterbukaUA/webinar-impromptu/blob/master/pub-
 
 <center>
 
-<img src="pub-bias/pub-bias-webinar.png" style="width:60%;" class="fancyimage"/>
+<img src="pub-bias-webinar.png" style="width:60%;" class="fancyimage"/>
 
 </center>

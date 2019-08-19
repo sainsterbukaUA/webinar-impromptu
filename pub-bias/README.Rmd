@@ -9,6 +9,8 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library("htmltools")
+library("vembedr")
 ```
 
 # Publication Bias Webinar (Monday, 18 August 2019, 10.00 WIB/13.00 AEST)
@@ -51,7 +53,9 @@ We're going to use Zoom's conference call (not webinar feature), so the room is 
 
 ## Recorded Webinar
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eYzjBP4_YTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```{r}
+embed_url("https://www.youtube.com/embed/eYzjBP4_YTM")
+```
 
 
 ## Slides, visual notes, and chat transcript
@@ -60,9 +64,9 @@ We're going to use Zoom's conference call (not webinar feature), so the room is 
 
 [Click here to download the chat transcript](https://github.com/sainsterbukaUA/webinar-impromptu/blob/master/pub-bias/meeting_saved_chat.txt)
 
-<center><img src="pub-bias/visual-notes.jpg" style="width:60%;" class="fancyimage"/></center>
+<center><img src="visual-notes.jpg" style="width:70%;" class="fancyimage"/></center>
 
 
 ## Event Poster
 
-<center><img src="pub-bias/pub-bias-webinar.png" style="width:60%;" class="fancyimage"/></center>
+<center><img src="pub-bias-webinar.png" style="width:60%;" class="fancyimage"/></center>
