@@ -53,7 +53,7 @@ We're going to use Zoom's conference call (not webinar feature), so the room is 
 
 ## Recorded Webinar
 
-```{r, include=FALSE}
+```{r, echo = TRUE}
 embed_youtube("eYzjBP4_YTM")
 ```
 
