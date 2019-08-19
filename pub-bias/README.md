@@ -71,12 +71,6 @@ barrier.
 
 ## Recorded Webinar
 
-``` r
-embed_url("https://www.youtube.com/embed/eYzjBP4_YTM")
-```
-
-    ## NULL
-
 ## Slides, visual notes, and chat transcript
 
 [Click here to download the slides](https://osf.io/fz2hn/)
