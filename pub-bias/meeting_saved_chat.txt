@@ -1,0 +1,137 @@
+09:08:26	 From  Erna Ubaya : tes
+09:18:47	 From  Rizqy Amelia Zein : Untuk bu Erna Ubaya dan Kebidanan FKH, mohon untuk leave meeting, kemudian klik link Zoom-nya lagi. Ketika Zoom sudah terbuka, jangan lupa klik "Join Audio Conferences by Computer/Phone".
+09:37:25	 From  Ilham Akhsanu Ridlo : Selamat pagi Bapak/Ibu semuanya. 
+09:39:07	 From  Ilham Akhsanu Ridlo : Webinar ini kita mulai pukul 09:45 WIB. Mohon bagi Bapak/Ibu yang sudah masuk dan login, dapat mengecek jaringan internet dan  Mic/Webcam Selama proses Webinar berlangsung kami minta untuk di mute.
+09:42:36	 From  Mahacita Andanalusia : jelas
+09:42:40	 From  Riski Amalia UHO : Bisa Pak.
+09:42:41	 From  aindhae : Jelas
+09:42:42	 From  Ari Zuntriana : jelas, Mas
+09:42:43	 From  Nurhasmadiar Nandini : jelas
+09:42:46	 From  Dewi Setyowati : iya pak, jelas
+09:42:47	 From  muhammadiqbal : jelas pak.
+09:42:49	 From  wind : jelas
+09:42:55	 From  theda : jelas
+09:43:12	 From  Erna Ubaya : saya bisa dengar 
+09:48:13	 From  MAYA WEKA SANTI : jelas pak
+09:49:12	 From  Ilham Akhsanu Ridlo : Bapak/Ibu jika ada yang ingin ditanyakan teknis silahkan Private Chat saya (Ilham Akhsanu Ridlo). Terimakasih.
+09:52:58	 From  Erna Ubaya : sekrang kira sdg melihat layar monitor mathew kah ?
+09:53:14	 From  astadi : yes
+09:53:28	 From  Erna Ubaya : ada slide sebyk 20 lembar ya ?
+09:53:31	 From  Dasapta Erwin Irawan : di saya tdk terlihat.
+09:53:35	 From  Erna Ubaya : ok. 
+10:01:27	 From  Riski Amalia UHO : Apakah saya bisa merekam sesi ini?
+10:02:44	 From  elida zairina : sy jg bs melihat slide nya dr hp
+10:03:28	 From  Annas Pratama : Pagi Bu Riski. Tidak masalah, tapi nanti webinarnya akan diunggah ke YouTube juga.
+10:03:45	 From  Riski Amalia UHO : Baik pak…
+10:04:05	 From  Rizqy Amelia Zein : boleh silahkan direcord buu
+10:04:11	 From  Rizqy Amelia Zein : ini juga saya rekam
+10:04:28	 From  Rizqy Amelia Zein : nanti akan saya unggah di YouTube
+10:05:18	 From  Rizqy Amelia Zein : saat ini saya akan membicarakan tentang bias publikasi yang merupakan persoalan yang paling jelas terlihat dari cara kita melakukan riset
+10:06:11	 From  Rizqy Amelia Zein : Prinsipnya, riset yang kita lakukan adalah mendeteksi sinyal dari berbagai distraksi. kadang kita merasa menemukan sesuatu, padahal sesuatu tsb tidak ada (type 1 error)
+10:06:32	 From  Rizqy Amelia Zein : kadang kita ga menemukan apapun, padahal yang kita cari sebenarnya ada (type 2 error)
+10:07:00	 From  Rizqy Amelia Zein : kadang2 juga kita keliru mengestimasi parameter dalam populasi (type s dan type m error)
+10:07:32	 From  Rizqy Amelia Zein : potensi terjadinya persoalan ini dapat diestimasi dengan melakukan simulasi
+10:08:06	 From  Rizqy Amelia Zein : kita lihat dari hasil simulasi, peneliti bisa saja mendapatkan hasil yang sangat beragam
+10:08:36	 From  Rizqy Amelia Zein : kok bisa di semua jurnal kebanyakan hasilnya positif (signifikan)?
+10:08:50	 From  Rizqy Amelia Zein : padahal, sebenarnya, mungkin saja hasilnya negatif
+10:09:17	 From  Rizqy Amelia Zein : persoalannya, ini terjadi tidak hanya karena sampling error, bisa saja persoalannya ada di kultur/kebiasaan kita melakukan riset
+10:09:37	 From  Rizqy Amelia Zein : sekarang kita akan mendiskusikan mengenai definisi bias publikasi
+10:10:38	 From  Rizqy Amelia Zein : bias publikasi prinsipnya adalah kondisi dimana peneliti pilih-pilih hasil yang akan dia publikasi, ada yang disimpan rapat2 dalam laci mejanya
+10:11:32	 From  Rizqy Amelia Zein : berdasarkan studi tentang QRP yang dilakukan oleh John et al, setengah peneliti (yang menjadi responden) mengaku "memilih2" hasil yang mereka publikasikan
+10:11:58	 From  Rizqy Amelia Zein : dengan melakukan p-value curve, dapat diketahui bahwa kondisi ini bukan karena sesuatu yang tidak disengaja
+10:12:11	 From  Rizqy Amelia Zein : ini melekat pada bias yang dialami oleh peneliti
+10:12:31	 From  Rizqy Amelia Zein : apa dampak bias publikasi pada penelitian meta-analysis?
+10:13:07	 From  Rizqy Amelia Zein : apa efek bias publikasi, apabila seorang peneliti mencoba mengagregasi ukuran efek (effect size) pada berbagai penelitian yang menjadi sampel meta-analisis?
+10:13:57	 From  Rizqy Amelia Zein : jadi meskipun di trimming (menggunakan trim-n-fill) ternyata bias publikasi tidak bisa diatasi
+10:14:09	 From  Rizqy Amelia Zein : sehingga, efek size dari hasil meta-analisis menjadi bias
+10:14:52	 From  Rizqy Amelia Zein : jadi kita bisa saja mengobservasi effect size yang besar sekali atau kecil sekali, tidak peduli apakah hasilnya signifikan atau tidak
+10:15:11	 From  Rizqy Amelia Zein : sehingga, hasil agregasi effect size menjadi overestimasi
+10:15:49	 From  Rizqy Amelia Zein : nah, kesimpulannya... kalo peneliti hanya mempublish hasil yang signifikan, maka tentu saja bias publikasi akan makin parah
+10:16:03	 From  Rizqy Amelia Zein : masalahnya, hidup kita tergantung pada sebanyak apa paper yang kita publish
+10:16:16	 From  Rizqy Amelia Zein : jurnal editor, reviewer, semua suka hasil yang signifikan :(
+10:16:36	 From  Rizqy Amelia Zein : sehingga mendorong peneliti melakukan segala hal supaya hasil penelitiannya signifikan
+10:16:40	 From  Rizqy Amelia Zein : *not good*
+10:16:59	 From  Rizqy Amelia Zein : sehingga terjadi questionable research practices
+10:17:33	 From  Rizqy Amelia Zein : misalnya, ga melaporkan semua analisis, bikin hipotesis setelah lihat data, tidak melaporkan semua variabel yang diukur
+10:17:43	 From  Rizqy Amelia Zein : atau melakukan optional stopping
+10:18:07	 From  Rizqy Amelia Zein : yang terparah/yang paling ekstrim melakukan fabrikasi data
+10:18:49	 From  Rizqy Amelia Zein : memodifikasi desain penelitian setelah data diambil agar mengubah yang tidak signifikan, menjadi signifikan
+10:19:29	 From  Rizqy Amelia Zein : pilihan keputusan2 ini juga disebut sbg researcher degrees of freedom
+10:19:43	 From  Rizqy Amelia Zein : yang membuat hasil penelitian menjadi "dipertanyakan"
+10:20:08	 From  Rizqy Amelia Zein : karena bias publikasi ini, estimasi meta-analisis menjadi worthless
+10:21:04	 From  Rizqy Amelia Zein : tentu efek yang paling buruk adalah kita memproduksi "polusi riset" yang sebenarnya, alih2 berguna, malah memberikan impresi yang keliru soal yang sebenarnya terjadi
+10:21:28	 From  Rizqy Amelia Zein : tentu aja ini buang2 sumberdaya percuma
+10:21:32	 From  Rizqy Amelia Zein : waktu, tenaga, dana, dll
+10:21:46	 From  Rizqy Amelia Zein : apa yang bikin bias publikasi terjadi?
+10:22:09	 From  Rizqy Amelia Zein : salah satunya adalah "prasangka" terhadap hipotesis null
+10:22:34	 From  Rizqy Amelia Zein : ada yang percaya bahwa *memang seharusnya* semua penelitian mestinya signifikan
+10:22:44	 From  Rizqy Amelia Zein : padahal tidak begitu *sigh*
+10:23:14	 From  Rizqy Amelia Zein : kita mestinya sadar bahwa kita pelan2 jatuh pada bias (meskipun secara tidak sadar) yang membuat pekerjaan kita menjadi kurang kredibel
+10:23:35	 From  Rizqy Amelia Zein : ini bukan salah individu sebenarnya... ini *dosa kolektif*
+10:23:40	 From  Rizqy Amelia Zein : dan sifatnya struktural
+10:24:43	 From  Rizqy Amelia Zein : misanya di jurnal2 American Psychological Association salah satu ditolaknya manuskrip adalah *hasil yang tidak signifikan secara statistik*
+10:25:01	 From  Rizqy Amelia Zein : (sebagai konteks, jurnal2 yang diterbitkan APA dianggap top tier di Psikologi)
+10:26:03	 From  Rizqy Amelia Zein : ada banyak jurnal yang memang sengaja lebih senang memajang hasil yang signifikan
+10:26:23	 From  Rizqy Amelia Zein : gimana cara mengkoreksi bias publikasi (secara sementara)?
+10:26:42	 From  Rizqy Amelia Zein : ada beberapa teknik dalam meta-analisis yang bisa dilakukan untuk "mengkoreksi" bias publikasi
+10:27:44	 From  Rizqy Amelia Zein : yang paling sering dilakukan adalah menggunakan Fail Safe N... tapi ini bukan untuk mengkoreksi bias publikasi, hanya indikator sampe study effect
+10:27:48	 From  Rizqy Amelia Zein : *sample
+10:27:52	 From  Rizqy Amelia Zein : bukan bias publikasi
+10:28:05	 From  Rizqy Amelia Zein : yang paling sering digunakan adalah trim-and-fill
+10:28:28	 From  Rizqy Amelia Zein : caranya adalah mengekstrapolasi effect size study pada arah yang berlawanan (trimming)
+10:28:53	 From  Rizqy Amelia Zein : tapi teknik ini hanya digunakan untuk mendapatkan funnel plot yang sitemtris
+10:28:55	 From  Rizqy Amelia Zein : simetris
+10:29:15	 From  Rizqy Amelia Zein : tapi tidak benar2 mengkoreksi masalah yang lebih serius, misalnya sampling error, dll
+10:29:34	 From  Rizqy Amelia Zein : ada beberapa teknik lain yang bisa dilakukan, misal p-curve, pet peese
+10:29:39	 From  Rizqy Amelia Zein : p-uniform juga
+10:30:16	 From  Rizqy Amelia Zein : PENGUMUMAN: Bapak/ibu yang ingin bertanya... bisa mulai menuliskan pertanyaannya dari sekarang
+10:30:30	 From  Rizqy Amelia Zein : sebentar lagi kita akan masuk Q&A session
+10:31:10	 From  Rizqy Amelia Zein : p-curve dan p-uniform harus dilakukan hati2 terutama ketika banyak sampel studi yang tidak signifikan
+10:32:40	 From  Rizqy Amelia Zein : melakukan studi meta-analisis dengan format laporan teregistrasi (registered report)
+10:32:46	 From  Rizqy Amelia Zein : juga menghasilkan estimasi yang lebih baik
+10:33:07	 From  Rizqy Amelia Zein : apa saja bias publikasi yang lain?
+10:33:30	 From  Rizqy Amelia Zein : oh... ternyata ada banyak jurnal *internasional* yang hanya mau menerbitkan artikel yang risetnya di barat
+10:33:45	 From  Rizqy Amelia Zein : kalo orang2 diluar itu... disuruh masuk ke jurnal regional
+10:34:07	 From  Rizqy Amelia Zein : *hayo siapa juga yang pernah mengalami ini?*
+10:34:17	 From  Rizqy Amelia Zein : ditolak editor karena alasan yang tidak jelas :)
+10:34:39	 From  Rizqy Amelia Zein : sample general interests = WEIRD sample
+10:35:25	 From  Rizqy Amelia Zein : WEIRD = westernized, educated, indstrialised, rich and democratic
+10:35:31	 From  Rizqy Amelia Zein : *industrialised
+10:36:03	 From  Rizqy Amelia Zein : apa yang bisa dilakukan supaya bias publikasi dapat dihindari?
+10:36:13	 From  Rizqy Amelia Zein : kita HARUS MERUBAH norma!
+10:36:27	 From  Rizqy Amelia Zein : bagaimana caranya melakukan riset, dan mempublikasikan hasil riset
+10:36:46	 From  Rizqy Amelia Zein : praktik banyak2an sitasi harus berhenti
+10:37:04	 From  Rizqy Amelia Zein : editor jurnal juga harus mengubah praktiknya
+10:37:21	 From  Rizqy Amelia Zein : daripada langsung desk rejecting hasil yg tidak signifikan, ya sebaiknya kirim dulu ke peer review
+10:37:48	 From  Rizqy Amelia Zein : jurnal juga harus mempublikasikan semua bukti, bukan hanya yang big stories aja
+10:37:57	 From  Rizqy Amelia Zein : gimana caranya yang bisa kita lakukan?
+10:38:01	 From  Ilham Akhsanu Ridlo : Bapak/ibu yang baru bergabung, Sesi QA (Tanya Jawab) disampaikan di Kolom Chat ini. Silahkan bisa mulai diketik di kolom chat dari sekarang. Terimakasih.
+10:38:01	 From  Rizqy Amelia Zein : masukkan ke pre-print!
+10:38:19	 From  Rizqy Amelia Zein : bisa melakukan riset dengan format laporan teregistrasi
+10:39:58	 From  erickunto : “teach next generation better!” < cocok :D
+10:40:27	 From  Ainul Rafiq : laporan terintegrasi bentuknya seperti apa ya, mohon bantuannya untuk dijelaskan.. 
+
+10:40:59	 From  Rizqy Amelia Zein : https://cos.io/rr/
+10:41:23	 From  Rizqy Amelia Zein : registered report --> singkatnya... kita submit naskah ke editor jurnal sebelum pengambilan data
+10:41:30	 From  Rizqy Amelia Zein : kalo sudah diterima, baru boleh lanjut ambil data
+10:41:43	 From  Rizqy Amelia Zein : nanti kita akan buat webinar tentang RR kalo bapak ibu tertarik
+10:42:40	 From  Ainul Rafiq : nuwun buk Amelia
+10:46:25	 From  Rizqy Amelia Zein : silahkan bapak ibu yang ingin bertanya...
+10:48:42	 From  Joe Hudiyana : May I ask a question. Some research may collect data in an extremely unpredictable settings, such as in prisons (terrorism, psychopathy, etc.). Spontaneity in how to maximise the quality of data will be very important, in such context. My question is, is there any pre-registration mechanism for this kind of data collection? I mean, the preregistered proposal about the data collection might be different with how the data is actually collected during such unpredictable environments.
+10:49:38	 From  Dasapta Erwin Irawan : maaf saluran video dan suara saya jelek, jadi tidak bisa partisipasi secara langsung. tapi via gambar saja ya.
+10:50:02	 From  astadi : Hi Mathew my name is Astadi from Telkom University…can you help me about how to doing good meta analysis research? Thank you
+10:50:12	 From  Rizqy Amelia Zein : gapapa pak Erwin... visual notenya keren!
+10:50:52	 From  Dasapta Erwin Irawan : Hi Mathew, thank you for making time to share your knowledge here. because my background is geology, so I would like to make a comment about your statement “Preprinting/registered report” is to prioritize claims.
+10:51:47	 From  Dasapta Erwin Irawan : that is exactly the point that we are making (literally) everyday.
+10:53:58	 From  Joe Hudiyana : Thank you very much for the explanation, Matthew
+10:56:27	 From  Dasapta Erwin Irawan : link ke catatan visual: https://photos.app.goo.gl/rnP8mwJq36JD7bFt8
+10:58:18	 From  Jessica priscilla : hallo apakah meta- analisys bidang kesehatan ,  sebaiknya melihat nilai OR Adjusted atau 0 R  atau RR . Bagaimana  Jika  yang ditemui  jurnal hanya Ada nilai p & R R atau OR non Adjusted.
+11:01:55	 From  Ainul Rafiq : suaranya hilang timbul buk
+11:04:10	 From  Riski Amalia UHO : Thank you Mathew, for the explanation. very helpful..
+11:04:27	 From  Mathew : Thank you all for the invitation 
+11:04:55	 From  Annas Pratama : Thank you for your talk Matthew!
+11:05:04	 From  Riski Amalia UHO : Terima kasih bu amel, pak dasapta dan pak ilham..
+11:05:09	 From  Ilham Akhsanu Ridlo : https://www.webinarsains2019.com/
+11:05:11	 From  Ainul Rafiq : thank you Mr Mathew for your talk..
+11:05:12	 From  Mathew : The drawing is great, Erwin 
+11:05:55	 From  Ainul Rafiq : matur nuwun pak/buk penyelenggara.. 
