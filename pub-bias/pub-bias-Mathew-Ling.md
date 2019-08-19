@@ -80,7 +80,7 @@ barrier.
 [Click here to download the slides](https://osf.io/fz2hn/)
 
 [Click here to download the chat
-transcript]()
+transcript](https://github.com/sainsterbukaUA/webinar-impromptu/blob/master/pub-bias/meeting_saved_chat.txt)
 
 <center>
 

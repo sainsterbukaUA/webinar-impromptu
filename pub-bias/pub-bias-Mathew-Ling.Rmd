@@ -58,7 +58,7 @@ We're going to use Zoom's conference call (not webinar feature), so the room is 
 
 [Click here to download the slides](https://osf.io/fz2hn/)
 
-[Click here to download the chat transcript]()
+[Click here to download the chat transcript](https://github.com/sainsterbukaUA/webinar-impromptu/blob/master/pub-bias/meeting_saved_chat.txt)
 
 <center><img src="pub-bias/visual-notes.jpg" style="width:60%;" class="fancyimage"/></center>
 
