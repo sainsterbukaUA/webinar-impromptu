@@ -71,8 +71,25 @@ barrier.
 
 ## Recorded Webinar
 
-[![](http://img.youtube.com/vi/eYzjBP4_YTM/0.jpg)](http://www.youtube.com/watch?v=eYzjBP4_YTM "")
+``` r
+embed_youtube("eYzjBP4_YTM")
+```
 
+<!--html_preserve-->
+
+<div class="vembedr">
+
+<div>
+
+<iframe src="https://www.youtube.com/embed/eYzjBP4_YTM" width="533" height="300" frameborder="0" allowfullscreen>
+
+</iframe>
+
+</div>
+
+</div>
+
+<!--/html_preserve-->
 
 ## Slides, visual notes, and chat transcript
 
